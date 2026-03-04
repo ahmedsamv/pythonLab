@@ -1,1 +1,2 @@
-console.log("HelloITI")
+console.log("HelloITI");
+console.log("HelloGIT");
